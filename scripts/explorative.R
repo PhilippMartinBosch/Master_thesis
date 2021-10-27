@@ -15,4 +15,3 @@ cces_16 <- read_dta("data/CCES16_Common_OUTPUT_Feb2018_VV.dta")
 
 
 
-glimpse(cces_16)
