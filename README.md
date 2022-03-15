@@ -1,6 +1,6 @@
 # Replication Material Master Thesis "The Great Poll Closure - How neighborhood composition is related to polling place changes"
 
-Script and data sets to replicate the Master Thesis "The Great Poll Closure - How neighborhood composition is related to polling place changes"
+Script and data sets to replicate the Master Thesis "The Great Poll Closure - How neighborhood composition is related to polling place changes". The thesis itself can be found [here]()
 
 ## Caveats
 
