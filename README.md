@@ -19,6 +19,6 @@ Caution: Both files for 2012 and 2016 are > 150MB ⚠️
 
 In order to replicate the analysis please first run the [package script](scripts/packages.R) and afterwards the [modelling script](modelling.R).
 
-Generated Stan Code for both models is supplied [here]().
+Generated Stan Code for both models is supplied [here](stan).
 
 
