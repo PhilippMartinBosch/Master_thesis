@@ -13,6 +13,8 @@ Caution: Both files for 2012 and 2016 are > 150MB ⚠️
 
 ⚠️ It is not possible to supply the full dataset of geocoded polling places due to the size limit of GitHub repos. To get access to the full data please contact: [Philipp Bosch](mailto:philipp.bosch@uni-konstanz.de) ⚠️
 
+## Replicate main analysis
+
 ✅ To replicate the substantial analysis I supply the [reduced dataset](data/model_df/12_16.csv) aggregated on county level for the 2012 and 2016 elections ✅
 
 In order to replicate the analysis please first run the [package script](scripts/packages.R) and afterwards the [modelling script](modelling.R).
