@@ -17,7 +17,7 @@ Caution: Both files for 2012 and 2016 are > 150MB ⚠️
 
 ✅ To replicate the substantial analysis I supply the [reduced dataset](data/model_df/12_16.csv) aggregated on county level for the 2012 and 2016 elections ✅
 
-In order to replicate the analysis please first run the [package script](scripts/packages.R) and afterwards the [modelling script](modelling.R). The easiest way is to clone this repo and just use the supplied R.proj file.
+In order to replicate the analysis please first run the [package script](scripts/packages.R) and afterwards the [modelling script](modelling.R). The easiest way is to clone this repo and just use the supplied [R-project file](R_project.Rproj).
 
 Generated Stan Code for both models is supplied [here](stan).
 
