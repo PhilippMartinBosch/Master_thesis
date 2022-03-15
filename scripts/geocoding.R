@@ -67,25 +67,6 @@ saveRDS(df_list, file = "data/temp/df_list.RDS")
 
 
 
-
-### nächste Schritte: checken wie sich Adresse und ZIP Code verhalten
-### fehlt immer beides?
-### testballon steigen lassen für Alaska
-
-
-
-
-doc <- mapsapi::mp_geocode(
-  addresses = "Anchorage Zion Lutheran Church",
-  key = key,
-  quiet = TRUE
-)
-
-pnt <- mp_get_points(doc)
-pnt
-
-
-
 # Alaska geocode ----------------------------------------------------------
 
 df_list[["AK"]] -> AK_df
